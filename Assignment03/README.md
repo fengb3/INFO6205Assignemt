@@ -47,7 +47,7 @@ Table:
 
 Graph:
 
-![](Assets/InsertionSort_Screenshot03.png)
+![](../Assets/InsertionSort_Screenshot03.png)
 
 ### Obervation
 
