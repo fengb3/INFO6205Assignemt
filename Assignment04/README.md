@@ -18,7 +18,7 @@ Screen shot for test case passed without modifing test code
 
 Use UF_HWQUPC to implement static method to findout the how may connection will be created with a given number of "sites"
 
-![](Assets/Assignment04_screenshot_10.png)
+![](../Assets/Assignment04_screenshot_10.png)
 
 ## Step 03
 
