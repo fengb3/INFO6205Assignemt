@@ -1,7 +1,9 @@
 # INFO6205 Assignment 3 (Benchmark)
 
 NAME: Bohan Feng
+
 NUID: 001564249
+
 Repository: [https://github.com/fengb3/INFO6205](https://github.com/fengb3/INFO6205)
 
 ## Part 1 Timer & Benchmark
