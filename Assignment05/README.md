@@ -44,7 +44,7 @@ In some intervals of cutoff values, the sorting time tends to be stable.
 
 (50% - 100%], (25% - 50], (12.5% - 25%],(6.25%,-12.5%] ...
 
-in generally, this interval is $(1/(n+1)^2, (1 / n)]$ where $n = 1,2,3,4 ... etc$
+in generally, this interval is (*$1/(n+1)^2, (1 / n)$] where $n = 2,3,4 ... etc$
 
 The larger n, the lower the efficiency of sorting. When the cutoff value is greater than 50% of the array size, the sorting efficiency is the highest and tends to be stable.
 
